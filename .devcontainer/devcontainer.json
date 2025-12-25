@@ -14,7 +14,7 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
+   		        "DEVSENSE.phptools-vscode"
 			]
 		}
 	},
